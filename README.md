@@ -10,3 +10,4 @@ A weather app built using Vanilla JS and Open Weather Api
 
 ## Screenshots
 ![](Screenshots/day.png)
+![](Screenshots/night.png)
