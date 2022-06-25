@@ -9,4 +9,4 @@ A weather app built using Vanilla JS and Open Weather Api
 . Shows weather type and the icon related to weather
 
 ## Screenshots
-![daytimeimage](Screenshots/Screenshot 2022-06-25 155213.png)
+![daytimeimage](Screenshot 2022-06-25 155213.png)
