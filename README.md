@@ -8,4 +8,5 @@ A weather app built using Vanilla JS and Open Weather Api
 . Changes the background image according to temp and time
 . Shows weather type and the icon related to weather
 
-## Screenshot
+## Screenshots
+![daytimeimage](./Screenshots/Screenshot 2022-06-25 155213.png)
